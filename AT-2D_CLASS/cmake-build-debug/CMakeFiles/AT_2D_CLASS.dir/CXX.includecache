@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/Lattice.h
+Node.h
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/Node.h
+iostream
+-
+random
+-
+chrono
+-
+
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/Node.h
+
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/func.h
+iostream
+-
+string
+-
+sstream
+-
+
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/main.cpp
+iomanip
+-
+iostream
+-
+fstream
+-
+stdlib.h
+-
+Node.h
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/Node.h
+Lattice.h
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/Lattice.h
+func.h
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/func.h
+

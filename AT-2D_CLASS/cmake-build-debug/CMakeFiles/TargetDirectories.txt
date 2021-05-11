@@ -1,0 +1,3 @@
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-debug/CMakeFiles/AT_2D_CLASS.dir
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

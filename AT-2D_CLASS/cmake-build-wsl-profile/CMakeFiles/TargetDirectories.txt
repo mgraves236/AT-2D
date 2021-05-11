@@ -1,0 +1,3 @@
+/mnt/c/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-wsl-profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-wsl-profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-wsl-profile/CMakeFiles/AT_2D_CLASS.dir

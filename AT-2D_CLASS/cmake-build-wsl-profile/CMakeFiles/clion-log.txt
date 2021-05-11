@@ -1,0 +1,4 @@
+/home/magda/cmake-3.17.5/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Magda/CLionProjects/AT-2D_CLASS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Magda/CLionProjects/AT-2D_CLASS/cmake-build-wsl-profile
