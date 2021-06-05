@@ -131,7 +131,7 @@ void Lattice::monteCarloStep() {
 				lattice[randRow][randCol].S = - lattice[randRow][randCol].S;
 			} else if (T != 0.0) {
 				double rand = doubleDist(mt_rand);
-				if (rand < - exp(- (E - E0) / T)) {
+				if (rand < exp(- (E - E0) / T)) {
 					lattice[randRow][randCol].S = - lattice[randRow][randCol].S;
 				}
 			}
